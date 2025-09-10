@@ -5,7 +5,7 @@ public class Player : MonoBehaviour
     private Vector3 direction;
     private SpriteRenderer spriteRenderer;
     private int spriteIndex;
-    public float gravity = -9.8f;
+    public float gravity = -10f;
     public float strength = 5f;
     public Sprite[] sprites;
 
